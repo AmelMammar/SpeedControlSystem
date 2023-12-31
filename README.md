@@ -27,3 +27,5 @@ To discharge the interactive proofs, we have imported the AtelierB provers, ProB
 
 ![ProBDis](https://github.com/AmelMammar/SpeedControlSystem/assets/60692373/d97f69ce-3535-4e69-95d0-7dc052816da4)
 
+To install the external provers, users should select the "Install New Software" menu and then select the desired plugin:
+![386881157_252795020992632_2078631935947026497_n](https://github.com/AmelMammar/SpeedControlSystem/assets/60692373/fb31dc89-c2fe-49be-8401-e978d8f257d7)
