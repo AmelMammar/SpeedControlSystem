@@ -23,3 +23,7 @@ After importing the Zip file CBA.zip under the Rodin platform (Version: 3.8.0-af
 
 <img width="280" alt="replay" src="https://github.com/AmelMammar/SpeedControlSystem/assets/60692373/6968a863-570f-4b90-a377-8fc70a1823d3">
 
+To discharge the interactive proofs, we have imported the AtelierB provers, ProB Disprover and the SMT provers as depicted by the following figure:
+
+![ProBDis](https://github.com/AmelMammar/SpeedControlSystem/assets/60692373/d97f69ce-3535-4e69-95d0-7dc052816da4)
+
