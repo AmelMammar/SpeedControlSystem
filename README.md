@@ -19,7 +19,7 @@ To import the Event-B project under Rodin, you should select the option Import u
 <img width="425" alt="file" src="https://github.com/AmelMammar/SpeedControlSystem/assets/60692373/73fdcdb0-fbb4-436f-b4b2-755a40f60ce8">
 
 
-After importing the Zip file CBA.zip under the Rodin platform (Version: 3.8.0-af2f57e1e), some profs may appear as not discharged. So, you should replay all the proofs by a right click as depicted by the following figure:
+After importing the Zip file STTT.zip under the Rodin platform (Version: 3.8.0-af2f57e1e), some proofs may appear as not discharged. So, you should replay all the proofs by a right click as depicted by the following figure:
 
 <img width="280" alt="replay" src="https://github.com/AmelMammar/SpeedControlSystem/assets/60692373/6968a863-570f-4b90-a377-8fc70a1823d3">
 
